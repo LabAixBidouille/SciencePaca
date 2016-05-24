@@ -1,6 +1,7 @@
 class: center, middle
 
-# Impression 3D, Fab Lab : Startup concrétisez vos idées ?
+# Laboratoire d'Aix-périmentation de Bidouille 
+## Fab Lab, Créativité et Numérique 
 ### Sébastien NEDJAR (MCF AMU - LIF)
 ![LAB](logo.png)
 ---
@@ -20,124 +21,23 @@ l'humour de qualité discutable. Veuillez ne pas jeter des tomates (ou tout autr
 - Sébastien NEDJAR (@nedseb)
     + Maître de conférences au Département Info de l'IUT  d'Aix. Enseignant spécialiste des Bases de données et chercheur en OLAP Mining au LIF.
 
-    + Membre fondateur du Fab Lab Provence et du Laboratoire d'Aixpérimentation et de Bidouille.
+    + Membre fondateur du Fab Lab Provence et du Laboratoire d'Aix-périmentation et de Bidouille.
     
-    + Co-animateur de l'ICSTUG #iutagile.
+    + Co-animateur de l'ICSTUG #Iutagile.
+
+    + Organisateur des rencontre Beyond Lab.
     
-    + Et bien d'autres activités étranges (pour avoir plus de détails faire une psychanalyse d'un étudiant m'ayant subi).
+    + Et bien d'autres activités surprenantes.
 ---
-
-class: center, middle
-#La Fabrication Numérique késako ?!
----
-
-## Qu'est-ce que la Fabrication Numérique ?
-
-L'ensemble des outils numériques (machines CNC et logiciels) permettant de passer de l'idée à un objet.
----
-
-## Qu'est-ce que la Fabrication Numérique ?
-
-L'ensemble des outils numériques (machines CNC et logiciels) permettant de passer de l'idée à un objet.
-
-.center[![CAO](freecad.png)]
----
-
-## Qu'est-ce que la Fabrication Numérique ?
-
-L'ensemble des outils numériques (machines CNC et logiciels) permettant de passer de l'idée à un objet.
-
-.center[![FAO](cambam.jpg)]
----
-
-## Qu'est-ce que la Fabrication Numérique ?
-
-L'ensemble des outils numériques (machines CNC et logiciels) permettant de passer de l'idée à un objet.
-
-.center[![Centre d'usinage](usinage.jpg)]
----
-
-## Qu'est-ce que la Fabrication Numérique ?
-
-L'ensemble des outils numériques (machines CNC et logiciels) permettant de passer de l'idée à un objet.
-
-.center[![Piece usinée](piece.jpg)]
----
-
-## Pourquoi en parle-t-on autant ?
-- Les machines de fabrication personnelle se sont grandement démocratisées,
-
-- Avec Internet le partages des idées est facilité,
-
-- Les brevets qui limitaient la diffusion de l'impression 3D sont tombés en 2009. L'arrivée de ces machines a révolutionné la perception du grand public,
-
-- Emergence de la figure emblématique du Maker et redécouverte du DIY.
-
-![personal fabbing](diy.jpg)
----
-
 class: center, middle
 #Fab Lab
 ---
-
-## Génèse du DIY
-- Masse monumentale de connaissance accessible
-
-- Profiter de ce qui est partagé pour apprendre à faire par soi-même
-
-- Création de communautés
-
-- Re-partage pour alimenter les communautés
----
-
 ## Génèse du DIY
   ![Le premier de tous les makers](spaghetti_monster.jpg)
 ---
 
 ## De l'Open Source à l'Open Hardware
 ![De l'open source à l'open hardware](opensource.png)
----
-
-## Open Source
-- Un logiciel est Open Source quand ses sources sont accessibles.
-
-- Disposant des sources, on est libre de les étudier, les modifier pour adapter 
-  le logiciel à ses besoins.
-
-- Depuis plus de 30 ans, de nombreuses licences Open Source sont apparues pour 
-  diffuser les logiciels Open Source tout en se protégeant (GPL, BSD, MIT, ...).
----
-
-## Open Hardware
-- Du "hardware" dont les plans sont accessibles
-  - Plans mécaniques
-
-  - Schémas électroniques
-
-  - Codes informatiques
-
-  - Procédés de fabrication
-
-- Le tout sous une licence ouverte
-  - Constructible par tous
-
-  - Intégrable dans d'autres objets
-
-  - Modifiable par tous
----
-
-## Open Hardware
-"Les bons artistes copient, les grands artistes volent" Picasso   
-"Nous n’avons jamais eu honte de voler les excellentes idées" Steve Jobs   
-
-L'humanité a toujours innové en commençant par copier. Exemples :  
-  - Le feu  
-  - La pierre taillée  
-  - La roue   
----
-
-## Open Hardware : la roue
-![La roue un open hardware qui s'ignore](roue.png)
 ---
 
 ## Maker
@@ -150,24 +50,11 @@ L'humanité a toujours innové en commençant par copier. Exemples :
 - Moteur de ce que certains appellent la troisième révolution industrielle.
 ---
 
-
-## Effet de mode ou mouvement de fond ?
-- Un exemple d'émergence d'une communauté auto-organisée collaborative et innovante.
-
-- Le mouvement des makers est une forme de passage de la bidouille informatique à la bidouille des objets physiques.
-
-- Nous sommes à un instant particulier de l'Histoire : la révolution de la fabrication numérique pour tous.
-
-- Comme pour l'informatique dans les années 80, on est à un moment d'effervescence qu'il faut péréniser.
-
-- Peut-être le début de la transformation radicale du modèle industriel actuel ?
----
-
-## Le Mouvement des Makers
+## Makers
   ![Makers](makers.jpg)
 ---
 
-## Le manifeste du mouvement des makers
+## Makers
 ![Manifeste du mouvement des Makers](MakersManifeste.png)
 ---
 
@@ -188,20 +75,6 @@ L'humanité a toujours innové en commençant par copier. Exemples :
 
 - Échange de compétences.
 ---
-# Qu'est ce qu'un Fab Lab ?
-
-.center[![Qu'est ce qu'un Fab Lab](schema_fablab_1.png)]
----
-
-# Autour d'un Fab Lab ?
-
-.center[![Autour d'un Fab Lab](schema_fablab_2.png)]
----
-
-# Que trouve-t-on dans un Fab Lab ?
-
-.center[![Que trouve-t-on dans un Fab Lab](schema_fablab_3.png)]
----
 
 ## Laboratoire d'Aix-périmentation et de bidouille
 
@@ -217,24 +90,11 @@ L'humanité a toujours innové en commençant par copier. Exemples :
 ---
 
 ## Laboratoire d'Aix-périmentation et de bidouille
-Pour en savoir plus :  
-  - Site Web : http://www.labaixbidouille.com/ 
-
-  - Twitter : @LabAixBidouille  
-
-  - Github : https://github.com/LabAixBidouille 
-
-  - Google groups : lab-aix@googlegroups.com
-
-  .center[![LAB](logolab.png)]
----
-
-## Laboratoire d'Aix-périmentation et de bidouille
 - Gérer un atelier offrant au public et tout particulièrement aux adhérents du lieu des outils de fabrication numérique;
 
 - Promouvoir l’expérimentation par la pratique et la réalisation de projets au moyen d’outils mis à disposition dans l’atelier, que ces projets aient une vocation scientifique, technique, artistique, culturelle ou économique;
 
-- Agir pour la promotion des sciences et techniques auprès du grand public en organisant et participant à des évènements et en accueillant tout visiteur et en lui offrant des opportunités de s’investir auprès de l’association;
+- Agir pour la promotion des sciences et techniques auprès du grand public en organisant et participant à des événements et en accueillant tout visiteur et en lui offrant des opportunités de s’investir auprès de l’association;
 
 - Favoriser la transmission et les échanges de savoir-faire et de connaissances;
 ---
@@ -247,6 +107,68 @@ Pour en savoir plus :
 - Proposer aux entreprises locales, associations et institutions des services favorisant leur développement;
 
 - Entretenir des réseaux de relations destinés à la création d’entreprises et d’opportunités commerciales sur la base des projets réalisés au sein de l’association.
+---
+
+# Open Bidouille Camp Provence
+L’Open Bidouille Camp Provence est un événement géré par la communauté du Fab Lab Provence visant à offrir une tribune aux « Makers » du Sud de la France. 
+
+C’est aussi une ode à l’invention, la créativité, la mise en commun des ressources, ainsi qu’une célébration du mouvement des « Makers » !
+
+Il a lieu le 27 & 28 mai prochain à la Bibliothèque Méjanes au centre d'Aix-en-Provence.
+
+.center[![OBC](baniere_OBC.png)]
+
+---
+# Open Bidouille Camp Provence
+.center[![OBC](obc.png)]
+---
+
+# Open Bidouille Camp Provence
+
+ - L’Open Bidouille Camp Provence est une petite foire de la fabrication numérique et du DIY. 
+ 
+ - Elle célèbre le « faites-le-vous-même », la science et la technologie, la robotique, l’artisanat moderne et la musique. 
+ 
+ - L’événement est organisé dans le cadre de la French Tech Aix-Marseille par une équipe motivée par le mouvement international des « Makers ». 
+ 
+ - C’est l’occasion de venir présenter vos projets ou de découvrir les inventions et créations de passionnés du « Do It Yourself » qui seront présentés. 
+
+---
+
+# Open Bidouille Camp
+
+Différents thèmes y sont abordés : 
+
+ - Créativité
+  
+ - Electronique/Informatique, 
+ 
+ - Robotique, 
+ 
+ - Citoyenneté, 
+ 
+ - Développement durable,
+  
+ - Logiciels libres...
+ 
+L’esprit de cette manifestation est de permettre aux participants de retrouver un peu d’autonomie, de liberté de choix en se réappropriant le numérique par le faire. 
+
+---
+
+# Open Bidouille Camp
+
+- **OPEN** :
+  comme dans logiciel libre, partage de connaissances, libre de droits, codes sources
+
+- **BIDOUILLE** : 
+  comme dans faire par soi-même, détourner de son usage, bricoler, apprendre, fabriquer, expérimenter
+
+- **CAMP** : 
+  parce qu’on s’installe sur la place publique, on va à la rencontre des gens, on fait ensemble en ateliers 
+  dans ce campement improvisé. Tout le monde est invité à participer.
+---
+# Open Bidouille Camp Provence
+.center[![OBC](obc.png)]
 ---
 
 
